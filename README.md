@@ -21,5 +21,5 @@ IBM  open technology mini academy
 ### Serverless 在人工智能领域的应用
 - 摘要：Serverless 可以跨平台跨语言，适用于连接系统与系统之间的“粘合剂”。本次课程将介绍如何利用 Serverless 集成人工智能平台 IBM Waston 的能力，搭建出丰富的人工智能解决方案。
 - [PDF讲义](./serverless-use-cases/Serverless-03.pdf)
-- 视频回放
+- [视频回放](http://v.youku.com/v_show/id_XMzg4ODUzNzQwOA==.html)
 - [Blog](https://mp.weixin.qq.com/s/vlWQISKHktcLC--baAgpoA)
