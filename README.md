@@ -1,5 +1,8 @@
 # ibm-opentech-ma
-IBM  open technology mini academy
+开源技术*IBM微讲堂是一个公益性的开源技术公开课，本库用来存放讲义。
+包含下列系列课程
+- [Serverless案例赏析](#serverless案例赏析)
+- [Istio系列](#istio系列)
 
 ## Serverless案例赏析
 到IBM Developers网站上的[课程主页](https://developer.ibm.com/cn/os-academy-serverless/)了解更多信息。
