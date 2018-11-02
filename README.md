@@ -23,3 +23,10 @@ IBM  open technology mini academy
 - [PDF讲义](./serverless-use-cases/Serverless-03.pdf)
 - [视频回放](http://v.youku.com/v_show/id_XMzg4ODUzNzQwOA==.html)
 - [Blog](https://mp.weixin.qq.com/s/vlWQISKHktcLC--baAgpoA)
+
+## Istio系列
+到IBM Developers网站上的[课程主页](https://developer.ibm.com/cn/os-academy-istio/)了解更多信息。
+### Istio初探
+- [介绍](https://mp.weixin.qq.com/s/ALKxF_Ys5U_gP066SqSSUQ)
+- [PDF讲义](./istio/istio-01-intro.pdf)
+- [视频回放]()
