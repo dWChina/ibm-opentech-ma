@@ -28,12 +28,12 @@
 - [Blog](https://mp.weixin.qq.com/s/vlWQISKHktcLC--baAgpoA)
 
 ## Istio系列
-到IBM Developers网站上的[课程主页](https://developer.ibm.com/cn/os-academy-istio/)了解更多信息。
+详细介绍[在此](./istio/README.md),到IBM Developers网站上的[课程主页](https://developer.ibm.com/cn/os-academy-istio/)了解更多信息。
 ### Istio初探
 - [介绍](https://mp.weixin.qq.com/s/ALKxF_Ys5U_gP066SqSSUQ)
 - [PDF讲义](./istio/istio-01-intro.pdf)
 - [视频回放]()
 ### Istio上手：架构、安装和演示
-- [介绍]()
-- [PDF讲义](./istio/istio-01-arch.pdf)
-- [视频回放]()
+- [介绍](./istio/istio-01-intro.pdf)
+- [PDF讲义](./istio/istio-02-arch.pdf)
+- [视频回放](https://m.youku.com/video/id_XMzkxNzQ1NzI4NA==.html)
