@@ -1,5 +1,8 @@
 # ibm-opentech-ma
-IBM  open technology mini academy
+开源技术*IBM微讲堂是一个公益性的开源技术公开课，本库用来存放讲义。
+包含下列系列课程
+- [Serverless案例赏析](#serverless案例赏析)
+- [Istio系列](#istio系列)
 
 ## Serverless案例赏析
 到IBM Developers网站上的[课程主页](https://developer.ibm.com/cn/os-academy-serverless/)了解更多信息。
@@ -21,5 +24,16 @@ IBM  open technology mini academy
 ### Serverless 在人工智能领域的应用
 - 摘要：Serverless 可以跨平台跨语言，适用于连接系统与系统之间的“粘合剂”。本次课程将介绍如何利用 Serverless 集成人工智能平台 IBM Waston 的能力，搭建出丰富的人工智能解决方案。
 - [PDF讲义](./serverless-use-cases/Serverless-03.pdf)
-- 视频回放
+- [视频回放](http://v.youku.com/v_show/id_XMzg4ODUzNzQwOA==.html)
 - [Blog](https://mp.weixin.qq.com/s/vlWQISKHktcLC--baAgpoA)
+
+## Istio系列
+到IBM Developers网站上的[课程主页](https://developer.ibm.com/cn/os-academy-istio/)了解更多信息。
+### Istio初探
+- [介绍](https://mp.weixin.qq.com/s/ALKxF_Ys5U_gP066SqSSUQ)
+- [PDF讲义](./istio/istio-01-intro.pdf)
+- [视频回放]()
+### Istio上手：架构、安装和演示
+- [介绍]()
+- [PDF讲义](./istio/istio-01-arch.pdf)
+- [视频回放]()
