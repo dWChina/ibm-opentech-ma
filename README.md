@@ -32,8 +32,8 @@
 ### Istio初探
 - [介绍](https://mp.weixin.qq.com/s/ALKxF_Ys5U_gP066SqSSUQ)
 - [PDF讲义](./istio/istio-01-intro.pdf)
-- [视频回放]()
+- [视频回放](http://v.youku.com/v_show/id_XMzkwMDEzMzkxNg==.html)
 ### Istio上手：架构、安装和演示
-- [介绍]()
+- [介绍](https://mp.weixin.qq.com/s/N6fuIezzfiMGFmN5-kMU4w)
 - [PDF讲义](./istio/istio-01-arch.pdf)
-- [视频回放]()
+- [视频回放](http://v.youku.com/v_show/id_XMzkxNzQ1NzI4NA==.html)
