@@ -35,5 +35,9 @@
 - [视频回放](http://v.youku.com/v_show/id_XMzkwMDEzMzkxNg==.html)
 ### Istio上手：架构、安装和演示
 - [介绍](https://mp.weixin.qq.com/s/N6fuIezzfiMGFmN5-kMU4w)
-- [PDF讲义](./istio/istio-01-arch.pdf)
+- [PDF讲义](./istio/istio-02-arch.pdf)
 - [视频回放](http://v.youku.com/v_show/id_XMzkxNzQ1NzI4NA==.html)
+### Istio安全
+- [介绍](https://mp.weixin.qq.com/s/wBXfHsbImqZfJdIf9iCz4A)
+- [PDF讲义](./istio/istio-03-security.pdf)
+- 视频回放
