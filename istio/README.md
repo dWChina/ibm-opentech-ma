@@ -27,3 +27,15 @@
 - [介绍](https://mp.weixin.qq.com/s/dMTwQRFwsrqQOvev9fbiNQ)
 - [PDF讲义](./istio-05-Monitoring-Observability.pdf)
 - [视频回放](https://v.youku.com/v_show/id_XMzk0MzE5NjA3Ng==.html)
+## Istio Mixer
+- [介绍](https://mp.weixin.qq.com/s/jH5H9zhZFYTNRq1A6iuuYw)
+- [PDF讲义](./istio-06-mixer.pdf)
+- [视频回放](http://v.youku.com/v_show/id_XMzk1MzIyMjQxMg==.html)
+## Istio 跨云管理方案解析
+- [介绍](https://mp.weixin.qq.com/s/RGoeoKJPdO6hfgnjSOPtvw)
+- [PDF讲义](./istio07-multiCluster.pdf)
+- [视频回放](http://v.youku.com/v_show/id_XMzk2Mzc3OTQ1Ng==.html)
+## Istio 使用案例-Serverless平台knative
+- [介绍](https://mp.weixin.qq.com/s/txOEfcc1N2URKJDTf0ohFg)
+- [PDF讲义](./istio-08-knative.pdf)
+- [视频回放](#)
